@@ -10,6 +10,7 @@ Some of my works are:
 Portfolio: https://jarus77.github.io/Jarus77/
 
 My Research Paper: https://arxiv.org/html/2508.12399v1
+
 Featured in Japanese news articles: https://kachibito.net/useful-resource/markdrop, https://buttondown.com/ainews/archive/ainews-not-much-happened-today-3076/
 
 
