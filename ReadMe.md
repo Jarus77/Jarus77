@@ -2,7 +2,7 @@
 
 Mostly I do work with companies, so don't push a lot of codes here.., 
 
-Some of my work are:
+Some of my works are:
 
 1. Markdrop(Python Package): https://pypi.org/project/markdrop/
 2. Thirukural AI : thirukural.ai
