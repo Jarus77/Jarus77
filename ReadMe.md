@@ -6,6 +6,7 @@ Some of my works are:
 
 1. Markdrop(Python Package): https://pypi.org/project/markdrop/
 2. Thirukural AI : thirukural.ai
+3. Srota : susrota.com
 
 Portfolio: https://jarus77.github.io/Jarus77/
 
