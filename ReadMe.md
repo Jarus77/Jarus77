@@ -1,6 +1,6 @@
 # Hi, I'm Suraj Prasad 👋
 
-**AI Researcher at [Actioneer](https://actioneer.com/)** · final-year at **IIT Bombay** (B.Tech Mechanical, minor in CS)
+**AI Researcher at [Actioneer](https://actioneer.com/)** · **IIT Bombay** graduate (B.Tech Mechanical Engineering, minor in Computer Science)
 
 I build the infrastructure around LLM post-training: reward functions grounded in execution, rigorous baselines and ablations, and pre-registered go/no-go experiments. Two threads right now — **relational foundation models** (learning over a database schema instead of hand-built features) and **speech** (code-switched ASR, on-device inference).
 
